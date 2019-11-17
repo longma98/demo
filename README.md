@@ -6,4 +6,4 @@ add a line
 
 add 3rd time
 
-in a branch now master
+in a branch now
